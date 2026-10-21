@@ -1,0 +1,182 @@
+{
+  "createdAt": "2026-10-21T07:43:38.632Z",
+  "files": [
+    {
+      "file": "public/access-rules.js",
+      "same": true
+    },
+    {
+      "file": "public/app.js",
+      "same": true
+    },
+    {
+      "file": "public/course-policy.js",
+      "same": true
+    },
+    {
+      "file": "public/course-studio.css",
+      "same": true
+    },
+    {
+      "file": "public/data-client.js",
+      "same": true
+    },
+    {
+      "file": "public/index.html",
+      "same": true
+    },
+    {
+      "file": "public/interface-polish.css",
+      "same": true
+    },
+    {
+      "file": "public/learning-hub.css",
+      "same": true
+    },
+    {
+      "file": "public/learning-hub.js",
+      "same": true
+    },
+    {
+      "file": "public/maintenance.css",
+      "same": true
+    },
+    {
+      "file": "public/permissions.js",
+      "same": true
+    },
+    {
+      "file": "public/purchase-reports.js",
+      "same": true
+    },
+    {
+      "file": "public/review-translations.json",
+      "same": true
+    },
+    {
+      "file": "public/review-ui-languages.js",
+      "same": true
+    },
+    {
+      "file": "public/site-dialogs.js",
+      "same": true
+    },
+    {
+      "file": "public/vendor/html2canvas-LICENSE.txt",
+      "same": true
+    },
+    {
+      "file": "public/vendor/html2canvas.min.js",
+      "same": true
+    },
+    {
+      "file": "public/vendor/jspdf-LICENSE.txt",
+      "same": true
+    },
+    {
+      "file": "public/vendor/jspdf.min.js",
+      "same": true
+    },
+    {
+      "file": "public/vendor/tabler-icons-0.woff2",
+      "same": true
+    },
+    {
+      "file": "public/vendor/tabler-icons-1.woff",
+      "same": true
+    },
+    {
+      "file": "public/vendor/tabler-icons-2.ttf",
+      "same": true
+    },
+    {
+      "file": "public/vendor/tabler-icons.css",
+      "same": true
+    },
+    {
+      "file": "public/vendor/TABLER-LICENSE.txt",
+      "same": true
+    },
+    {
+      "file": "public/vendor/tajawal-0.ttf",
+      "same": true
+    },
+    {
+      "file": "public/vendor/tajawal-1.ttf",
+      "same": true
+    },
+    {
+      "file": "public/vendor/tajawal-2.ttf",
+      "same": true
+    },
+    {
+      "file": "public/vendor/TAJAWAL-OFL.txt",
+      "same": true
+    },
+    {
+      "file": "public/vendor/tajawal.css",
+      "same": true
+    },
+    {
+      "file": "public/vendor/XLSX-LICENSE.txt",
+      "same": true
+    },
+    {
+      "file": "public/vendor/XLSX-STYLE-LICENSE.txt",
+      "same": true
+    },
+    {
+      "file": "public/vendor/xlsx.min.js",
+      "same": true
+    },
+    {
+      "file": "public/video-gates.js",
+      "same": true
+    },
+    {
+      "file": "public/video-timeline.js",
+      "same": true
+    },
+    {
+      "file": "server.mjs",
+      "same": true
+    },
+    {
+      "file": "learning-service.mjs",
+      "same": true
+    },
+    {
+      "file": "finance-service.mjs",
+      "same": true
+    },
+    {
+      "file": "checkout-service.mjs",
+      "same": true
+    },
+    {
+      "file": "review.fragment.js",
+      "same": true
+    },
+    {
+      "file": "maintenance.fragment.js",
+      "same": true
+    },
+    {
+      "file": "operations.fragment.js",
+      "same": true
+    },
+    {
+      "file": "hub-integration.fragment.js",
+      "same": true
+    },
+    {
+      "file": "course-studio.fragment.js",
+      "same": true
+    },
+    {
+      "file": "followup.fragment.js",
+      "same": true
+    }
+  ],
+  "allIdentical": true
+}
